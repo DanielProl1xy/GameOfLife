@@ -18,6 +18,11 @@ Run the compiled executable and draw!
 
 
 # Compile
+## Raylib
+First of all - get the RayLib libraries:
+https://github.com/raysan5/raylib
+
+## Compile
 With MakeFile:
 ```cmd
 $ git clone https://github.com/DanielProl1xy/GameOfLife.git
